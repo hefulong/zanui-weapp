@@ -24,7 +24,6 @@
     "pages/toptips/index",
     "pages/toast/index",
     "pages/select/index"
-	// "pages/select/index"
   ],
   "window": {
     "navigationBarBackgroundColor": "#FAFAFA",
